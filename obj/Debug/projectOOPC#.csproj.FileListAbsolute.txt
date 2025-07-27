@@ -1,0 +1,7 @@
+C:\Users\welcome\source\repos\projectOOPC#\projectOOPC#\bin\Debug\projectOOPC#.exe.config
+C:\Users\welcome\source\repos\projectOOPC#\projectOOPC#\bin\Debug\projectOOPC#.exe
+C:\Users\welcome\source\repos\projectOOPC#\projectOOPC#\bin\Debug\projectOOPC#.pdb
+C:\Users\welcome\source\repos\projectOOPC#\projectOOPC#\obj\Debug\projectOOPC#.csproj.AssemblyReference.cache
+C:\Users\welcome\source\repos\projectOOPC#\projectOOPC#\obj\Debug\projectOOPC#.csproj.CoreCompileInputs.cache
+C:\Users\welcome\source\repos\projectOOPC#\projectOOPC#\obj\Debug\projectOOPC#.exe
+C:\Users\welcome\source\repos\projectOOPC#\projectOOPC#\obj\Debug\projectOOPC#.pdb
