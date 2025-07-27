@@ -56,13 +56,3 @@ This is a simple Object-Oriented Programming (OOP) project built using C# that s
 
 
 
-\##  Requirements
-
-
-
-\- .NET Framework 4.7.2 or later
-
-\- Visual Studio or any C# IDE
-
-
-
